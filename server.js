@@ -22,6 +22,8 @@ db.getConnection((err, connection) => {
     }
   
     console.log('Connected to the database.');
+})
+
 
 //main menu 
 function main() {
